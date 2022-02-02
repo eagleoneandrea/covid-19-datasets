@@ -1,0 +1,6 @@
+﻿"ITTER107","Territorio","TIPO_DATO15","Tipo di indicatore demografico","SEXISTAT1","Sesso","ETA1","Età","STATCIV2","Stato civile","TIME","Seleziona periodo","Value","Flag Codes","Flags"
+"IT","Italia","JAN","popolazione al 1º gennaio","1","maschi","Y0","0 anni","1","nubile/celibe","2020","2020",212756,,
+"IT","Italia","JAN","popolazione al 1º gennaio","1","maschi","Y0","0 anni","99","totale","2020","2020",212756,,
+"IT","Italia","JAN","popolazione al 1º gennaio","2","femmine","Y0","0 anni","1","nubile/celibe","2020","2020",202218,,
+"IT","Italia","JAN","popolazione al 1º gennaio","2","femmine","Y0","0 anni","99","totale","2020","2020",202218,,
+"IT","Italia","JAN","popolazione al 1º gennaio","9","totale","Y0","0 anni","1","nubile/celibe","2020","2020",414974,,
